@@ -14715,3 +14715,9 @@ msgstr "ano"
 
 msgid "zoom area"
 msgstr "área de zoom"
+
+msgid "Contact"
+msgstr "Contato"
+
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"

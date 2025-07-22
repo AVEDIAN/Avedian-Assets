@@ -15848,3 +15848,9 @@ msgstr "área de zoom"
 
 msgid "© Layer attribution"
 msgstr "© Atribución de capas"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
