@@ -6970,7 +6970,9 @@
         "y: os valores são normalizados dentro de cada linha"
       ],
       "year": ["ano"],
-      "zoom area": ["área de zoom"]
+      "zoom area": ["área de zoom"],
+      "Contact": ["Contato"],
+      "Privacy Policy": ["Política de Privacidade"]
     }
   }
 }

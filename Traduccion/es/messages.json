@@ -4692,7 +4692,9 @@
       ],
       "year": ["año"],
       "zoom area": ["área de zoom"],
-      "© Layer attribution": ["© Atribución de capas"]
+      "© Layer attribution": ["© Atribución de capas"],
+      "Contact": ["Contacto"],
+      "Privacy Policy": ["Política de Privacidad"]
     }
   }
 }
