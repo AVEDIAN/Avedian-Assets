@@ -123,7 +123,7 @@ const App = () => (
         ))}
       </Switch>
       <ToastContainer />
-      <FooterWithCondition />
+      <Footer />
     </RootContextProviders>
   </Router>
 );
